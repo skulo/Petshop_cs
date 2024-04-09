@@ -1,0 +1,5 @@
+﻿Lajos t1 Tarantula Young fekete 2022 5000
+Lajos p1 Pinty Young fehér 2021 5000
+Lajos t2 Tarantula Old fehér 2022 5000
+Lajos t3 Tarantula Old fehér 2023 5000
+Pista h1 Hörcsög Old fehér 2022 5000
